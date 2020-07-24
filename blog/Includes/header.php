@@ -2,7 +2,7 @@
 
 session_start();
 
-include("includes/db.php");
+include("Includes/DB.php");
 include("functions/functions.php");
 
 $active = 'ifarm';

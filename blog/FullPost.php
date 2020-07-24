@@ -3,8 +3,8 @@
     <?php 
 
     $active='Home';
-    include("includes/header.php");
-    include("includes/functions.php");
+    include("Includes/header.php");
+    include("Includes/Functions.php");
 
 function ErrorMessage(){
   if(isset($_SESSION["ErrorMessage"])){
@@ -198,7 +198,7 @@ if(isset($_POST["Submit"])){
  ?>
 <?php 
     
-    include("includes/footer.php");
+    include("Includes/footer.php");
     
     ?>
     

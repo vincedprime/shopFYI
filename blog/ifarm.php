@@ -4,7 +4,7 @@
 
 session_start();
 
-include("includes/db.php");
+include("Includes/DB.php");
 include("functions/functions.php");
 
 $active = 'ifarm';
@@ -415,7 +415,7 @@ if(isset($_GET['pro_id'])){
     <!-- HEADER END -->
 <br>
     <?php
-        include("includes/footer.php");
+        include("Includes/footer.php");
     ?>
 
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
