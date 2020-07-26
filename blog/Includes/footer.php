@@ -87,7 +87,7 @@
                 
                 <p><!-- p Start -->
                     
-                    <strong>Smart Farming Portal inc.</strong>
+                    <strong>ShopFYI inc.</strong>
                     <br/>1134,
                     <br/>East Delhi
                     <br/>9999-458-745

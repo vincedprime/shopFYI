@@ -1,5 +1,5 @@
 <?php
-$ConnectingDB = mysqli_connect("localhost","root","","cms4.2.1");
+$ConnectingDB = mysqli_connect("localhost","root","","cms4_2_1");
 ?>
 
 
