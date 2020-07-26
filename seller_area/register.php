@@ -27,7 +27,7 @@
            
            <input type="password" class="form-control" placeholder="Your Password" name="seller_pass" required>
            
-           <input type="text" class="form-control" placeholder="Confirm Password" name="confirm_pass" required>
+           <input type="password" class="form-control" placeholder="Confirm Password" name="confirm_pass" required>
            
            <input type="text" class="form-control" placeholder="Country" name="seller_country" required>
            

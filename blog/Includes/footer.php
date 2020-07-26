@@ -147,8 +147,9 @@
 <div id="copyright"><!-- #copyright Begin -->
     <div class="container"><!-- container Begin -->
         <div class="col-md-6"><!-- col-md-6 Begin -->
-            
-            <p class="pull-left">&copy; 2020 Smart Farming Portal All Rights Reserve</p>
+        
+            <!-- shopFYI name has been finalized. No more name changes -->
+            <p class="pull-left">&copy; 2020 ShopFYI All Rights Reserve</p>
             
         </div><!-- col-md-6 Finish -->
     </div><!-- container Finish -->
