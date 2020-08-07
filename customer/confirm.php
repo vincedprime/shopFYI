@@ -106,8 +106,8 @@ if(isset($_GET['order_id'])){
                
                <a href="../index.php" class="navbar-brand home"><!-- navbar-brand home Begin -->
                    
-                   <img src="images/logo.png" alt="shopify" class="hidden-xs">
-                   <img src="images/logo-mobile.png" alt="shopify" class="visible-xs">
+                   <img src="../images/logo.png" alt="shopify" class="hidden-xs">
+                   <img src="../images/logo-mobile.png" alt="shopify" class="visible-xs">
                    
                </a><!-- navbar-brand home Finish -->
                

@@ -13,7 +13,7 @@ while ($DataRows=$stmt->fetch_array()) {
   $CategoryToBeDeleted = $DataRows['category'];
   $ImageToBeDeleted    = $DataRows['image'];
   $PostToBeDeleted     = $DataRows['post'];
-  // code...
+  // code...9818727830
 }
 // echo $ImageToBeDeleted;
 if(isset($_POST["Submit"])){
