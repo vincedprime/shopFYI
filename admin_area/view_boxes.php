@@ -13,7 +13,7 @@
         <ol class="breadcrumb"><!-- breadcrumb begin -->
             <li>
                 
-                <i class="fa fa-dashboard"></i> Dashboard / View Boxes
+                <i class="fa fa-dashboard"></i> Dashboard / View Comments
                 
             </li>
         </ol><!-- breadcrumb finish -->
@@ -26,7 +26,7 @@
             <div class="panel-heading"><!-- panel-heading begin -->
                 <h3 class="panel-title"><!-- panel-title begin -->
                 
-                    <i class="fa fa-tags fa-fw"></i> View Boxes
+                    <i class="fa fa-tags fa-fw"></i> View Comments
                 
                 </h3><!-- panel-title finish -->
             </div><!-- panel-heading finish -->

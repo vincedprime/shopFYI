@@ -199,17 +199,17 @@
             <li><!-- li begin -->
                 <a href="#" data-toggle="collapse" data-target="#boxes"><!-- a href begin -->
                         
-                        <i class="fa fa-fw fa-dropbox"></i> Boxes
+                        <i class="fa fa-fw fa-dropbox"></i> Comments
                         <i class="fa fa-fw fa-caret-down"></i>
                         
                 </a><!-- a href finish -->
                 
                 <ul id="boxes" class="collapse"><!-- collapse begin -->
                     <li><!-- li begin -->
-                        <a href="index.php?insert_box"> Insert Box </a>
+                        <a href="index.php?insert_box"> Insert Comments </a>
                     </li><!-- li finish -->
                     <li><!-- li begin -->
-                        <a href="index.php?view_boxes"> View Boxes </a>
+                        <a href="index.php?view_boxes"> View Comments </a>
                     </li><!-- li finish -->
                 </ul><!-- collapse finish -->
                 
